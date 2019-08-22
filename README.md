@@ -1,5 +1,10 @@
 # Docker Workflow with Wordpress
 
+## Required Software
+- [git](https://git-scm.com/)
+- [git-ftp](https://github.com/git-ftp/git-ftp)
+- [docker](https://www.docker.com/)
+
 ## Workflow
 
 Basically, this workflow performs the basic operations to manage your Wordpress application using Git as SCM. You just have to copy these files in the root folder of your Wordpress project, and the workflow will be available.
